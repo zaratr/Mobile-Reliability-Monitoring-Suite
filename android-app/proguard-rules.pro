@@ -1,0 +1,3 @@
+-keepattributes LineNumberTable,SourceFile
+-dontwarn io.sentry.**
+-keep class io.sentry.** { *; }
